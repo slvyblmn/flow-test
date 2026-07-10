@@ -1,4 +1,4 @@
-package gunhee;
+package com.example.flowtest.gunhee;
 
 import jakarta.persistence.*;
 import lombok.Getter;
