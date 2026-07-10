@@ -15,5 +15,6 @@ public class CustomerInfo {
 
 
     private Long id;
+    private String name;
 
 }
