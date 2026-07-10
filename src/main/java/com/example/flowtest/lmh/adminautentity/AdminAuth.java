@@ -1,4 +1,4 @@
-package com.example.flowtest.lmh.entity;
+package com.example.flowtest.lmh.adminautentity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
