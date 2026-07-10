@@ -14,4 +14,7 @@ import lombok.NoArgsConstructor;
 public class Entity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+
 }
